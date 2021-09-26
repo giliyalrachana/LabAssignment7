@@ -1,0 +1,7 @@
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment7\LabAssignment7\LabAssignment7\bin\Debug\LabAssignment7.exe.config
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment7\LabAssignment7\LabAssignment7\bin\Debug\LabAssignment7.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment7\LabAssignment7\LabAssignment7\bin\Debug\LabAssignment7.pdb
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment7\LabAssignment7\LabAssignment7\obj\Debug\LabAssignment7.csproj.AssemblyReference.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment7\LabAssignment7\LabAssignment7\obj\Debug\LabAssignment7.csproj.CoreCompileInputs.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment7\LabAssignment7\LabAssignment7\obj\Debug\LabAssignment7.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment7\LabAssignment7\LabAssignment7\obj\Debug\LabAssignment7.pdb
