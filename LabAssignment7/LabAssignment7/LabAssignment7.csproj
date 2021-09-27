@@ -50,6 +50,7 @@
     <Compile Include="AbstractComputer.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Computer.cs" />
+    <Compile Include="ConstructorDemo.cs" />
     <Compile Include="Ibook.cs" />
     <Compile Include="Interface1.cs" />
     <Compile Include="MainFrameComputer.cs" />
@@ -58,6 +59,7 @@
     <Compile Include="PhysicsBookcs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Room.cs" />
     <Compile Include="SuperComputer.cs" />
   </ItemGroup>
   <ItemGroup>
