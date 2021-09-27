@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractClass.cs" />
+    <Compile Include="AbstractComputer.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Computer.cs" />
     <Compile Include="Ibook.cs" />
